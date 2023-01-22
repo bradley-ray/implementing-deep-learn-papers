@@ -6,3 +6,4 @@
 - [x] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - [x] [An Image is Worth 16x16 Words](https://arxiv.org/abs/2010.11929v2)
 - [ ] [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- [ ] [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)
