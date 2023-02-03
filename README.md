@@ -8,3 +8,8 @@ Repo for implementing different deep-learning papers.
 - [x] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - [x] [An Image is Worth 16x16 Words](https://arxiv.org/abs/2010.11929v2)
 - [ ] *in progress* [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+
+## TODO
+- [ ] reorganize main code out of notebooks
+		(put into folders/.py files & use nb for training/testing exploration/visualization)
+- [ ] put more content into previous paper implementations (training/testing notes, etc)
