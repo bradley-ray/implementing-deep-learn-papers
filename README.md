@@ -12,4 +12,6 @@ Repo for implementing different deep-learning papers.
 ## TODO
 - [ ] reorganize main code out of notebooks
 		(put into folders/.py files & use nb for training/testing exploration/visualization)
+	- maybe also use something pytorch lightning
 - [ ] put more content into previous paper implementations (training/testing notes, etc)
+	- retraining older notebooks (i've learned a lot more sense then, so can improve results probably & tidy up code)
