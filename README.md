@@ -7,7 +7,8 @@ Repo for implementing different deep-learning papers.
 - [x] [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300.pdf)
 - [x] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - [x] [An Image is Worth 16x16 Words](https://arxiv.org/abs/2010.11929v2)
-- [ ] *in progress* [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- [x] [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- [ ] *in progress* [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297v1)
 
 ## TODO
 - [ ] reorganize main code out of notebooks
